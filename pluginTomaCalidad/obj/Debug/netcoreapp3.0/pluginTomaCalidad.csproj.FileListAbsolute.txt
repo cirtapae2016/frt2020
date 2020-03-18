@@ -1,0 +1,10 @@
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginTomaCalidad\obj\Debug\netcoreapp3.0\pluginTomaCalidad.Properties.Resources.resources
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginTomaCalidad\obj\Debug\netcoreapp3.0\pluginTomaCalidad.csproj.GenerateResource.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginTomaCalidad\obj\Debug\netcoreapp3.0\pluginTomaCalidad.AssemblyInfoInputs.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginTomaCalidad\obj\Debug\netcoreapp3.0\pluginTomaCalidad.AssemblyInfo.cs
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginTomaCalidad.deps.json
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginTomaCalidad.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginTomaCalidad.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginTomaCalidad\obj\Debug\netcoreapp3.0\pluginTomaCalidad.csproj.CopyComplete
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginTomaCalidad\obj\Debug\netcoreapp3.0\pluginTomaCalidad.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginTomaCalidad\obj\Debug\netcoreapp3.0\pluginTomaCalidad.pdb

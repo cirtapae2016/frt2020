@@ -1,0 +1,10 @@
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAprobarCalidad\obj\Debug\netcoreapp3.0\pluginAprobarCalidad.Properties.Resources.resources
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAprobarCalidad\obj\Debug\netcoreapp3.0\pluginAprobarCalidad.csproj.GenerateResource.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAprobarCalidad\obj\Debug\netcoreapp3.0\pluginAprobarCalidad.AssemblyInfoInputs.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAprobarCalidad\obj\Debug\netcoreapp3.0\pluginAprobarCalidad.AssemblyInfo.cs
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginAprobarCalidad.deps.json
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginAprobarCalidad.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginAprobarCalidad.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAprobarCalidad\obj\Debug\netcoreapp3.0\pluginAprobarCalidad.csproj.CopyComplete
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAprobarCalidad\obj\Debug\netcoreapp3.0\pluginAprobarCalidad.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAprobarCalidad\obj\Debug\netcoreapp3.0\pluginAprobarCalidad.pdb

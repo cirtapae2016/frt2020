@@ -1,0 +1,11 @@
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginPesaje\obj\Debug\netcoreapp3.0\pluginPesaje.csprojAssemblyReference.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginPesaje\obj\Debug\netcoreapp3.0\pluginPesaje.Properties.Resources.resources
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginPesaje\obj\Debug\netcoreapp3.0\pluginPesaje.csproj.GenerateResource.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginPesaje\obj\Debug\netcoreapp3.0\pluginPesaje.AssemblyInfoInputs.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginPesaje\obj\Debug\netcoreapp3.0\pluginPesaje.AssemblyInfo.cs
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginPesaje.deps.json
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginPesaje.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginPesaje.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginPesaje\obj\Debug\netcoreapp3.0\pluginPesaje.csproj.CopyComplete
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginPesaje\obj\Debug\netcoreapp3.0\pluginPesaje.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginPesaje\obj\Debug\netcoreapp3.0\pluginPesaje.pdb

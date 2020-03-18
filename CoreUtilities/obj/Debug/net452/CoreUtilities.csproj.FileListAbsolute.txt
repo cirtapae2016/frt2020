@@ -1,0 +1,17 @@
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\bin\Debug\net452\CoreUtilities.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\bin\Debug\net452\CoreUtilities.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\bin\Debug\net452\EPPlus.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\bin\Debug\net452\MathParserTK.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\bin\Debug\net452\Newtonsoft.Json.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\bin\Debug\net452\RestSharp.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\bin\Debug\net452\Newtonsoft.Json.xml
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\bin\Debug\net452\RestSharp.xml
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\bin\Debug\net452\EPPlus.xml
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\obj\Debug\net452\CoreUtilities.Properties.Resources.resources
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\obj\Debug\net452\CoreUtilities.csproj.GenerateResource.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\obj\Debug\net452\CoreUtilities.AssemblyInfoInputs.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\obj\Debug\net452\CoreUtilities.AssemblyInfo.cs
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\obj\Debug\net452\CoreUtilities.csproj.CopyComplete
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\obj\Debug\net452\CoreUtilities.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\obj\Debug\net452\CoreUtilities.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\CoreUtilities\obj\Debug\net452\CoreUtilities.csprojAssemblyReference.cache

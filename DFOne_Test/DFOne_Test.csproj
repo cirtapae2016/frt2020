@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Authors>Felipe Loyola, Juan Carlos Correa</Authors>
+    <Company>FRUTEXSA</Company>
+    <Version>1.62</Version>
+    <Platforms>AnyCPU</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SAPBusinessOneSDK">
+      <HintPath>C:\Program Files (x86)\SAP\SAP Business One SDK\Lib\SAPBusinessOneSDK.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreSAPB1\CoreSAPB1.csproj" />
+    <ProjectReference Include="..\CoreUtilities\CoreUtilities.csproj" />
+    <ProjectReference Include="..\pluginAprobarCalidad\pluginCalidadAprobar.csproj" />
+    <ProjectReference Include="..\pluginAsignaLote\pluginAsignaLote.csproj" />
+    <ProjectReference Include="..\pluginCalibrado\pluginPrdSE.csproj" />
+    <ProjectReference Include="..\pluginCalidadRecepcion\pluginCalidadRecepcion.csproj" />
+    <ProjectReference Include="..\pluginCalidadUpd\pluginCalidadUpd.csproj" />
+    <ProjectReference Include="..\pluginCalidad\pluginCalidad.csproj" />
+    <ProjectReference Include="..\pluginComex\pluginComex.csproj" />
+    <ProjectReference Include="..\pluginConsumoMP\pluginPrdMP.csproj" />
+    <ProjectReference Include="..\pluginEgresoPT\pluginPrdPT.csproj" />
+    <ProjectReference Include="..\pluginFumigado\pluginFumigado.csproj" />
+    <ProjectReference Include="..\pluginMaestroCalidad\pluginCalidadMaestro.csproj" />
+    <ProjectReference Include="..\pluginPesaje\pluginPesaje.csproj" />
+    <ProjectReference Include="..\pluginPlanificacion\pluginPlanificacion.csproj" />
+    <ProjectReference Include="..\pluginProgramacion\pluginProgramacion.csproj" />
+    <ProjectReference Include="..\pluginRecepcion\pluginRecepcion.csproj" />
+    <ProjectReference Include="..\pluginTarja\pluginTarja.csproj" />
+    <ProjectReference Include="..\pluginTomaCalidad\pluginCalidadToma.csproj" />
+    <ProjectReference Include="..\pluginTrazabilidad\pluginTrazabilidad.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalibrado\obj\Debug\netcoreapp3.0\pluginCalibrado.csprojAssemblyReference.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalibrado\obj\Debug\netcoreapp3.0\pluginCalibrado.Properties.Resources.resources
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalibrado\obj\Debug\netcoreapp3.0\pluginCalibrado.csproj.GenerateResource.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalibrado\obj\Debug\netcoreapp3.0\pluginCalibrado.AssemblyInfoInputs.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalibrado\obj\Debug\netcoreapp3.0\pluginCalibrado.AssemblyInfo.cs
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginCalibrado.deps.json
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginCalibrado.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginCalibrado.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalibrado\obj\Debug\netcoreapp3.0\pluginCalibrado.csproj.CopyComplete
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalibrado\obj\Debug\netcoreapp3.0\pluginCalibrado.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalibrado\obj\Debug\netcoreapp3.0\pluginCalibrado.pdb

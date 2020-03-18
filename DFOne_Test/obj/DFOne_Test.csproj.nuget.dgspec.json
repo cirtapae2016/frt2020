@@ -1,0 +1,1338 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\DFOne_Test\\DFOne_Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj",
+        "projectName": "CoreSAPB1",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj",
+        "projectName": "CoreUtilities",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452",
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          },
+          "net452": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.2, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "OfficeOpenXml.Core.ExcelPackage": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            },
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        },
+        "net452": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\DFOne_Test\\DFOne_Test.csproj": {
+      "version": "1.62.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\DFOne_Test\\DFOne_Test.csproj",
+        "projectName": "DFOne_Test",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\DFOne_Test\\DFOne_Test.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\DFOne_Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAprobarCalidad\\pluginCalidadAprobar.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAprobarCalidad\\pluginCalidadAprobar.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAsignaLote\\pluginAsignaLote.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAsignaLote\\pluginAsignaLote.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalibrado\\pluginPrdSE.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalibrado\\pluginPrdSE.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadRecepcion\\pluginCalidadRecepcion.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadRecepcion\\pluginCalidadRecepcion.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadUpd\\pluginCalidadUpd.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadUpd\\pluginCalidadUpd.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidad\\pluginCalidad.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidad\\pluginCalidad.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginComex\\pluginComex.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginComex\\pluginComex.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginConsumoMP\\pluginPrdMP.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginConsumoMP\\pluginPrdMP.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginEgresoPT\\pluginPrdPT.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginEgresoPT\\pluginPrdPT.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginFumigado\\pluginFumigado.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginFumigado\\pluginFumigado.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginMaestroCalidad\\pluginCalidadMaestro.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginMaestroCalidad\\pluginCalidadMaestro.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPesaje\\pluginPesaje.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPesaje\\pluginPesaje.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPlanificacion\\pluginPlanificacion.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPlanificacion\\pluginPlanificacion.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginProgramacion\\pluginProgramacion.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginProgramacion\\pluginProgramacion.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginRecepcion\\pluginRecepcion.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginRecepcion\\pluginRecepcion.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTarja\\pluginTarja.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTarja\\pluginTarja.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTomaCalidad\\pluginCalidadToma.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTomaCalidad\\pluginCalidadToma.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTrazabilidad\\pluginTrazabilidad.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTrazabilidad\\pluginTrazabilidad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAprobarCalidad\\pluginCalidadAprobar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAprobarCalidad\\pluginCalidadAprobar.csproj",
+        "projectName": "pluginCalidadA",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAprobarCalidad\\pluginCalidadAprobar.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAprobarCalidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAsignaLote\\pluginAsignaLote.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAsignaLote\\pluginAsignaLote.csproj",
+        "projectName": "pluginAsignaLote",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAsignaLote\\pluginAsignaLote.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginAsignaLote\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalibrado\\pluginPrdSE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalibrado\\pluginPrdSE.csproj",
+        "projectName": "pluginPrdSE",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalibrado\\pluginPrdSE.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalibrado\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadRecepcion\\pluginCalidadRecepcion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadRecepcion\\pluginCalidadRecepcion.csproj",
+        "projectName": "pluginCalidadRecepcion",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadRecepcion\\pluginCalidadRecepcion.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadRecepcion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadUpd\\pluginCalidadUpd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadUpd\\pluginCalidadUpd.csproj",
+        "projectName": "pluginCalidadUpd",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadUpd\\pluginCalidadUpd.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidadUpd\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidad\\pluginCalidad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidad\\pluginCalidad.csproj",
+        "projectName": "pluginCalidad",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidad\\pluginCalidad.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginCalidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginComex\\pluginComex.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginComex\\pluginComex.csproj",
+        "projectName": "pluginComex",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginComex\\pluginComex.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginComex\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginConsumoMP\\pluginPrdMP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginConsumoMP\\pluginPrdMP.csproj",
+        "projectName": "pluginPrdMP",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginConsumoMP\\pluginPrdMP.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginConsumoMP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginEgresoPT\\pluginPrdPT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginEgresoPT\\pluginPrdPT.csproj",
+        "projectName": "pluginPrdPT",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginEgresoPT\\pluginPrdPT.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginEgresoPT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginFumigado\\pluginFumigado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginFumigado\\pluginFumigado.csproj",
+        "projectName": "pluginFumigado",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginFumigado\\pluginFumigado.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginFumigado\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginMaestroCalidad\\pluginCalidadMaestro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginMaestroCalidad\\pluginCalidadMaestro.csproj",
+        "projectName": "pluginCalidadMaestro",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginMaestroCalidad\\pluginCalidadMaestro.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginMaestroCalidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPesaje\\pluginPesaje.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPesaje\\pluginPesaje.csproj",
+        "projectName": "pluginPesaje",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPesaje\\pluginPesaje.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPesaje\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPlanificacion\\pluginPlanificacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPlanificacion\\pluginPlanificacion.csproj",
+        "projectName": "pluginPlanificacion",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPlanificacion\\pluginPlanificacion.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginPlanificacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginProgramacion\\pluginProgramacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginProgramacion\\pluginProgramacion.csproj",
+        "projectName": "pluginProgramacion",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginProgramacion\\pluginProgramacion.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginProgramacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginRecepcion\\pluginRecepcion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginRecepcion\\pluginRecepcion.csproj",
+        "projectName": "pluginRecepcion",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginRecepcion\\pluginRecepcion.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginRecepcion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTarja\\pluginTarja.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTarja\\pluginTarja.csproj",
+        "projectName": "pluginTarja",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTarja\\pluginTarja.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTarja\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTomaCalidad\\pluginCalidadToma.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTomaCalidad\\pluginCalidadToma.csproj",
+        "projectName": "pluginCalidadToma",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTomaCalidad\\pluginCalidadToma.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTomaCalidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTrazabilidad\\pluginTrazabilidad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTrazabilidad\\pluginTrazabilidad.csproj",
+        "projectName": "pluginTrazabilidad",
+        "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTrazabilidad\\pluginTrazabilidad.csproj",
+        "packagesPath": "C:\\Users\\hpincheira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\pluginTrazabilidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hpincheira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreSAPB1\\CoreSAPB1.csproj"
+              },
+              "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj": {
+                "projectPath": "C:\\Users\\hpincheira\\Desktop\\addonsFrutexsa\\DriedFruitOne_DotNet\\CoreUtilities\\CoreUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

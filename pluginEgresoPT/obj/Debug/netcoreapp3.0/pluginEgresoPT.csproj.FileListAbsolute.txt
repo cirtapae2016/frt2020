@@ -1,0 +1,11 @@
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginEgresoPT\obj\Debug\netcoreapp3.0\pluginEgresoPT.csprojAssemblyReference.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginEgresoPT\obj\Debug\netcoreapp3.0\pluginEgresoPT.Properties.Resources.resources
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginEgresoPT\obj\Debug\netcoreapp3.0\pluginEgresoPT.csproj.GenerateResource.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginEgresoPT\obj\Debug\netcoreapp3.0\pluginEgresoPT.AssemblyInfoInputs.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginEgresoPT\obj\Debug\netcoreapp3.0\pluginEgresoPT.AssemblyInfo.cs
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginEgresoPT.deps.json
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginEgresoPT.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginEgresoPT.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginEgresoPT\obj\Debug\netcoreapp3.0\pluginEgresoPT.csproj.CopyComplete
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginEgresoPT\obj\Debug\netcoreapp3.0\pluginEgresoPT.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginEgresoPT\obj\Debug\netcoreapp3.0\pluginEgresoPT.pdb

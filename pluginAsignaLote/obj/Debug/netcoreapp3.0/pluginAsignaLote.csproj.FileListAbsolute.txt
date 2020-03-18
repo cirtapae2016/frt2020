@@ -1,0 +1,10 @@
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAsignaLote\obj\Debug\netcoreapp3.0\pluginAsignaLote.Properties.Resources.resources
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAsignaLote\obj\Debug\netcoreapp3.0\pluginAsignaLote.csproj.GenerateResource.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAsignaLote\obj\Debug\netcoreapp3.0\pluginAsignaLote.AssemblyInfoInputs.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAsignaLote\obj\Debug\netcoreapp3.0\pluginAsignaLote.AssemblyInfo.cs
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginAsignaLote.deps.json
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginAsignaLote.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginAsignaLote.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAsignaLote\obj\Debug\netcoreapp3.0\pluginAsignaLote.csproj.CopyComplete
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAsignaLote\obj\Debug\netcoreapp3.0\pluginAsignaLote.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginAsignaLote\obj\Debug\netcoreapp3.0\pluginAsignaLote.pdb

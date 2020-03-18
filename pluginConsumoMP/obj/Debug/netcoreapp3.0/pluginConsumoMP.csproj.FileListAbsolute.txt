@@ -1,0 +1,11 @@
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginConsumoMP\obj\Debug\netcoreapp3.0\pluginConsumoMP.csprojAssemblyReference.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginConsumoMP\obj\Debug\netcoreapp3.0\pluginConsumoMP.Properties.Resources.resources
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginConsumoMP\obj\Debug\netcoreapp3.0\pluginConsumoMP.csproj.GenerateResource.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginConsumoMP\obj\Debug\netcoreapp3.0\pluginConsumoMP.AssemblyInfoInputs.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginConsumoMP\obj\Debug\netcoreapp3.0\pluginConsumoMP.AssemblyInfo.cs
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginConsumoMP.deps.json
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginConsumoMP.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginConsumoMP.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginConsumoMP\obj\Debug\netcoreapp3.0\pluginConsumoMP.csproj.CopyComplete
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginConsumoMP\obj\Debug\netcoreapp3.0\pluginConsumoMP.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginConsumoMP\obj\Debug\netcoreapp3.0\pluginConsumoMP.pdb

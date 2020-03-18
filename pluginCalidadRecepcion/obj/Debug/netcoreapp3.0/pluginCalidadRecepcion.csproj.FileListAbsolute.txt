@@ -1,0 +1,11 @@
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalidadRecepcion\obj\Debug\netcoreapp3.0\pluginCalidadRecepcion.csprojAssemblyReference.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalidadRecepcion\obj\Debug\netcoreapp3.0\pluginCalidadRecepcion.Properties.Resources.resources
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalidadRecepcion\obj\Debug\netcoreapp3.0\pluginCalidadRecepcion.csproj.GenerateResource.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalidadRecepcion\obj\Debug\netcoreapp3.0\pluginCalidadRecepcion.AssemblyInfoInputs.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalidadRecepcion\obj\Debug\netcoreapp3.0\pluginCalidadRecepcion.AssemblyInfo.cs
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginCalidadRecepcion.deps.json
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginCalidadRecepcion.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginCalidadRecepcion.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalidadRecepcion\obj\Debug\netcoreapp3.0\pluginCalidadRecepcion.csproj.CopyComplete
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalidadRecepcion\obj\Debug\netcoreapp3.0\pluginCalidadRecepcion.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginCalidadRecepcion\obj\Debug\netcoreapp3.0\pluginCalidadRecepcion.pdb

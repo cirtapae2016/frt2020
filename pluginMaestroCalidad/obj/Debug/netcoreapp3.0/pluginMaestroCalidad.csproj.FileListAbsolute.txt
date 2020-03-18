@@ -1,0 +1,11 @@
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginMaestroCalidad\obj\Debug\netcoreapp3.0\pluginMaestroCalidad.csprojAssemblyReference.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginMaestroCalidad\obj\Debug\netcoreapp3.0\pluginMaestroCalidad.Properties.Resources.resources
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginMaestroCalidad\obj\Debug\netcoreapp3.0\pluginMaestroCalidad.csproj.GenerateResource.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginMaestroCalidad\obj\Debug\netcoreapp3.0\pluginMaestroCalidad.AssemblyInfoInputs.cache
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginMaestroCalidad\obj\Debug\netcoreapp3.0\pluginMaestroCalidad.AssemblyInfo.cs
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginMaestroCalidad.deps.json
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginMaestroCalidad.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\plugins\Debug\netcoreapp3.0\pluginMaestroCalidad.pdb
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginMaestroCalidad\obj\Debug\netcoreapp3.0\pluginMaestroCalidad.csproj.CopyComplete
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginMaestroCalidad\obj\Debug\netcoreapp3.0\pluginMaestroCalidad.dll
+C:\Users\hpincheira\Desktop\addonsFrutexsa\DriedFruitOne_DotNet\pluginMaestroCalidad\obj\Debug\netcoreapp3.0\pluginMaestroCalidad.pdb
